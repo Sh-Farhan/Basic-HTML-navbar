@@ -1,0 +1,27 @@
+ul{
+    list-style: none;
+}
+
+nav ul{
+    display: flex;
+    color: white;
+    gap: 20px;
+    font-size: 30px;
+}
+
+nav{
+    align-items: center;
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+}
+
+li{
+    display: inline;
+}
+
+#aboutpage{
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+}
